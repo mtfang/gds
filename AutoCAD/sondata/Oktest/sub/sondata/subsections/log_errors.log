@@ -1,0 +1,16 @@
+Run 1:  Fri Dec 04 16:26:50 2015.  Sonn.1.12345.
+        Em version 13.52 (64-bit Windows) on DESKTOP-M541C41 local.
+
+  Project:  C:\Users\Michael\Dropbox\GitHub\PainterQubits\devMichael\AutoCAD\sondata\Oktest\sub\subsections.son.
+
+    Frequency:  1 GHZ
+
+      Sonnet Warning EG2570:
+      Potential problem with option usage.
+      Use of Memory Saver option may result in error
+      at frequencies below 17987.547480 MHz.
+      Date: Fri Dec 04 16:26:50 2015
+
+      Errors detected: 0    Warnings detected: 1.
+
+Analysis stopped Fri Dec 04 16:29:16 2015 with signal 15.

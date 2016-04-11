@@ -1,0 +1,20 @@
+Run 1:  Wed Dec 09 11:51:23 2015.  Sonn.1.12345.
+        Em version 13.52 (64-bit Windows) on DESKTOP-M541C41 local.
+
+  Project:  C:\Users\Michael\Dropbox\GitHub\PainterQubits\devMichael\AutoCAD\device.son.
+
+    Pre-Analysis:
+
+      Sonnet Error EG2420:
+      Illegal calibration group configuration.
+      Calibration group B (level=0 x=1.0 y=613.999 to x=999.0 y=613.999 microns)
+      has illegal combination of port locations and/or orientations.
+      Date: Wed Dec 09 11:51:23 2015
+
+
+    Post-Analysis:
+      Errors detected: 1    Warnings detected: 0.
+      One or more errors detected.
+      See Errors/Warnings for more details.
+
+Analysis failed due to error Wed Dec 09 11:51:23 2015.
